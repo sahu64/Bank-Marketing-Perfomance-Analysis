@@ -1,8 +1,8 @@
-\# Marketing Campaign Performance Analysis \& Optimization
+# Marketing Campaign Performance Analysis \& Optimization
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -16,7 +16,7 @@ The objective is to uncover actionable insights that improve campaign efficiency
 
 
 
-\## Business Objective
+## Business Objective
 
 
 
@@ -24,23 +24,23 @@ To answer the following key questions:
 
 
 
-\- Which customer segments convert best?
+- Which customer segments convert best?
 
-\- Does call frequency impact conversion rate?
+- Does call frequency impact conversion rate?
 
-\- How do loans affect investment behavior?
+- How do loans affect investment behavior?
 
-\- Which months deliver the highest success rates?
+- Which months deliver the highest success rates?
 
-\- Which contact method performs best?
+- Which contact method performs best?
 
-\- How can the bank optimize future campaigns?
-
-
+- How can the bank optimize future campaigns?
 
 
 
-\## Dataset Description
+
+
+## Dataset Description
 
 
 
@@ -48,19 +48,19 @@ The dataset contains customer-level information including:
 
 
 
-\- Demographics (age, job, education, marital status)
+- Demographics (age, job, education, marital status)
 
-\- Financial attributes (balance, housing loan, personal loan)
+- Financial attributes (balance, housing loan, personal loan)
 
-\- Campaign details (contact method, number of calls, duration, month)
+- Campaign details (contact method, number of calls, duration, month)
 
-\- Previous campaign outcome
+- Previous campaign outcome
 
-\- Target variable: `deposit` (Yes/No)
+- Target variable: `deposit` (Yes/No)
 
 
 
-\## Tools \& Technologies Used
+## Tools & Technologies Used
 
 
 
@@ -73,7 +73,7 @@ The dataset contains customer-level information including:
 
 
 
-\## Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 
 
@@ -81,19 +81,19 @@ The following KPIs were developed:
 
 
 
-\- \*\*Deposit Subscription Rate (%)\*\*
+- **Deposit Subscription Rate (%)**
 
-\- \*\*Contacts per Successful Deposit\*\*
+- **Contacts per Successful Deposit**
 
-\- \*\*Average Call Duration per Successful Deposit\*\*
+- **Average Call Duration per Successful Deposit**
 
-\- \*\*Conversion Rate by Previous Campaign Outcome\*\*
+- **Conversion Rate by Previous Campaign Outcome**
 
-\- \*\*Conversion Rate by Balance Segment\*\*
+- **Conversion Rate by Balance Segment**
 
-\- \*\*Conversion Rate by Contact Method\*\*
+- **Conversion Rate by Contact Method**
 
-\- \*\*Monthly Conversion Rate\*\*
+- **Monthly Conversion Rate**
 
 
 
@@ -101,51 +101,51 @@ The following KPIs were developed:
 
 
 
-\## Key Analyses Performed
+## Key Analyses Performed
 
 
 
-\### 1. Customer Segmentation
+### 1. Customer Segmentation
 
-\- Balance segmented into Low / Medium / High using quantiles
+- Balance segmented into Low / Medium / High using quantiles
 
-\- Conversion rate compared across segments
-
-
-
-\### 2. Campaign Efficiency Analysis
-
-\- Conversion rate by number of contacts
-
-\- Identified diminishing returns after multiple calls
+- Conversion rate compared across segments
 
 
 
-\### 3.  Loan Impact Analysis
+### 2. Campaign Efficiency Analysis
 
-\- Compared customers with and without housing/personal loans
+- Conversion rate by number of contacts
 
-\- Observed lower conversion rates among indebted customers
-
-
-
-\###  4. Seasonal Trend Analysis
-
-\- Month-wise conversion trend analysis
-
-\- Identified high-performing months for campaign execution
+- Identified diminishing returns after multiple calls
 
 
 
-\###  5. Channel Effectiveness
+### 3.  Loan Impact Analysis
 
-\- Conversion rate comparison across contact methods
+- Compared customers with and without housing/personal loans
 
-\- Cellular contact showed higher performance
+- Observed lower conversion rates among indebted customers
 
 
 
-\##  Visualizations
+###  4. Seasonal Trend Analysis
+
+- Month-wise conversion trend analysis
+
+- Identified high-performing months for campaign execution
+
+
+
+###  5. Channel Effectiveness
+
+- Conversion rate comparison across contact methods
+
+- Cellular contact showed higher performance
+
+
+
+##  Visualizations
 
 
 
@@ -153,31 +153,31 @@ The project includes:
 
 
 
-\- Conversion rate by balance segment (Bar chart)
+- Conversion rate by balance segment (Bar chart)
 
-\- Conversion rate by loan status (Bar chart)
+- Conversion rate by loan status (Bar chart)
 
-\- Monthly conversion trend (Line chart)
+- Monthly conversion trend (Line chart)
 
-\- conversion rate by month and contact type (Heat map)
+- conversion rate by month and contact type (Heat map)
 
-\- Contact method effectiveness (Bar chart)
+- Contact method effectiveness (Bar chart)
 
-\- Executive-style 2x2 performance dashboard
-
-
-
-\## Business Recommendations
+- Executive-style 2x2 performance dashboard
 
 
 
-\- Prioritize high-balance customers.
+## Business Recommendations
 
-\- Focus campaigns during high-performing months.
 
-\- Improve cellular contact outreach.
 
-\- Re-target previously successful customers strategically.
+- Prioritize high-balance customers.
+
+- Focus campaigns during high-performing months.
+
+- Improve cellular contact outreach.
+
+- Re-target previously successful customers strategically.
 
 
 
